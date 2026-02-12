@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbzXdfQRScblYu79d35yveRB2hPtgD-K70Whj8M6VJ7jyR5FBxjt8O8EvbtR2UsYNR4qtw/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwON4S93QvFM-wyhWNtK0KjS5886RRS5-OEQvJjdkzAXSL54UA5M1KSVvmvHSpksF8Nhg/exec";
 
 
 
@@ -1884,3 +1884,4 @@ async function eliminarProducto(id) {
 //     setTimeout(() => toast.remove(), 300);
 //   }, 3000);
 // }
+
